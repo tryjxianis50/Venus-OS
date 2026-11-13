@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">Venus OS atmospheric planet logo</title>
+  <mask id="venus-cut" maskUnits="userSpaceOnUse">
+    <rect width="1024" height="1024" fill="#fff"/>
+    <path fill="#000" d="M184 390C269 325 348 371 458 432c139 77 260 104 382-17l-10 49C713 580 578 546 446 475 334 415 261 369 197 425Z"/>
+    <path fill="#000" d="M196 588c78-78 169-50 287 12 142 75 243 91 342 19l-19 48c-99 78-214 66-344-2-119-62-199-91-251-37Z"/>
+    <path d="M214 391C326 213 583 141 690 232c89 76 33 184-82 180-86-3-136-55-109-108 23-45 86-50 122-14" fill="none" stroke="#000" stroke-linecap="round" stroke-width="22"/>
+  </mask>
+  <circle cx="512" cy="512" r="324" fill="#fff" mask="url(#venus-cut)"/>
+</svg>
